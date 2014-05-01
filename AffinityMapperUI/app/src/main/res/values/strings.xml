@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AffinityMapper1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="interestOptions">
+        <item>Sport</item>
+        <item>Literature</item>
+        <item>History</item>
+        <item>Movies</item>
+        <item>Health</item>
+        <item>Politics</item>
+        <item>Technology</item>
+        <item>Food</item>
+    </string-array>
+
+
+</resources>
